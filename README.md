@@ -9,3 +9,9 @@
   - git push origin master
 # Pour effacer les changements faits sur le PC et revenir à l'etat du serveur:
   - git checkout -- . 
+
+# Commandes windows
+  - cd uncheminversquelquechose
+  ou
+  - cd d:
+  pour changer de disque
